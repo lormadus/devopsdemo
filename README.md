@@ -1,1 +1,1 @@
-# devopsdemo
+# AWS DevOps Seminar
